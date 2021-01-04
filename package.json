@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/nypolitics/vpdemo1#readme",
   "dependencies": {
-    "vuepress": "2.6.10"
+    "vue": "^2.6.12",
+    "vuepress": "^2.6.11"
   }
 }
